@@ -1,6 +1,8 @@
 # English To Hindi Transliteration  
 
-A neural network for English to Hindi transliteration built using Encoder-Decoder model using GRU.   
+A neural network for English to Hindi transliteration built using Encoder-Decoder model that makes use of GRU.   
+
+----
 
 
 # Nationality Classification of Names  
